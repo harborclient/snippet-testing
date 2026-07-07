@@ -9,8 +9,8 @@ importers:
   .:
     devDependencies:
       '@harborclient/sdk':
-        specifier: ^1.0.39
-        version: 1.0.39(@babel/runtime@8.0.0)(@codemirror/search@6.7.1)(@codemirror/theme-one-dark@6.1.3)(codemirror@6.0.2)(eslint@10.6.0)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)(typescript@6.0.3)
+        specifier: ^1.0.40
+        version: 1.0.40(@babel/runtime@8.0.0)(@codemirror/search@6.7.1)(@codemirror/theme-one-dark@6.1.3)(codemirror@6.0.2)(eslint@10.6.0)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)(typescript@6.0.3)
 
 packages:
 
@@ -268,8 +268,8 @@ packages:
       '@fortawesome/fontawesome-svg-core': ~6 || ~7
       react: ^18.0.0 || ^19.0.0
 
-  '@harborclient/sdk@1.0.39':
-    resolution: {integrity: sha512-UDTPxXWuSf/PamSWqpFrnOXZ4KLSuY+JOLHZdOE/75QHCK+m59S81iUPR8vFpJVFWKGKD2H74U8YOCKs3ybpTw==}
+  '@harborclient/sdk@1.0.40':
+    resolution: {integrity: sha512-58ku1IlFwAKUeTaQv9Va9aA3mOwItjYDB8+LlquOs/X/c6xHTE2WZbfkD8Ggv9c2J6TPw32Ei3bK4/hmnIAdEA==}
     hasBin: true
     peerDependencies:
       react: '>=18'
@@ -1028,7 +1028,7 @@ snapshots:
       '@fortawesome/fontawesome-svg-core': 7.3.0
       react: 19.2.7
 
-  '@harborclient/sdk@1.0.39(@babel/runtime@8.0.0)(@codemirror/search@6.7.1)(@codemirror/theme-one-dark@6.1.3)(codemirror@6.0.2)(eslint@10.6.0)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)(typescript@6.0.3)':
+  '@harborclient/sdk@1.0.40(@babel/runtime@8.0.0)(@codemirror/search@6.7.1)(@codemirror/theme-one-dark@6.1.3)(codemirror@6.0.2)(eslint@10.6.0)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)(typescript@6.0.3)':
     dependencies:
       '@codemirror/autocomplete': 6.20.3
       '@codemirror/lang-javascript': 6.2.5
