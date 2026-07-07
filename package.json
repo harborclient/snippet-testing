@@ -1,0 +1,16 @@
+{
+  "name": "@harborclient/snippet-testing",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "release": "bash scripts/publish.sh",
+    "sign": "node --experimental-strip-types scripts/sign.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.17.1",
+  "dependencies": {
+    "@harborclient/sdk": "link:../../sdk"
+  }
+}

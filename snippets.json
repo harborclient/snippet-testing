@@ -1,0 +1,21 @@
+{
+  "id": "com.harborclient.snippets.testing",
+  "name": "Testing",
+  "author": "HarborClient",
+  "version": "1.0.0",
+  "summary": "A complete set of pass and fail testing snippets.",
+  "description": "README.md",
+  "categories": [
+    "testing"
+  ],
+  "screenshots": [
+   "https://raw.githubusercontent.com/harborclient/snippet-testing/main/screenshot.png"
+  ],
+  "engines": {
+    "harborclient": ">=2.0.0"
+  },
+  "snippets": [
+  	{ "name": "Pass", "where": "post-request", "file": "pass.js" },
+    { "name": "Fail", "where": "post-request", "file": "fail.js" }
+  ]
+}

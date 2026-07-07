@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "pluginId": "com.harborclient.snippets.testing",
+  "pluginVersion": "1.0.0",
+  "algorithm": "Ed25519",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "dba27c31aad935787bb275c3e5e4e957708f15386de599eff1db476022cd7e4c"
+    },
+    {
+      "path": "fail.js",
+      "sha256": "e8e950a5c46e6ffa8c7ad363a359b9fa2d8f27537f473ae58ed2b2c369373bb6"
+    },
+    {
+      "path": "package.json",
+      "sha256": "671051b4d05b619bf9231fccccb46485e58156ce24441e5286b0979cfde93258"
+    },
+    {
+      "path": "pass.js",
+      "sha256": "3bfda2c7a6dd6aed1e252859669353c62665a7c48ae58cbdce23f0f09ce33196"
+    },
+    {
+      "path": "pnpm-lock.yaml",
+      "sha256": "96744220b552b1b6a9bb034b391a6871f52c91f15864bbb0a2060cf88ec7bf44"
+    },
+    {
+      "path": "README.md",
+      "sha256": "73ab104669cef22198198ff61dcd011850781ff55d492cce60fa6174adb7170f"
+    },
+    {
+      "path": "screenshot.png",
+      "sha256": "3b165c47891b6c61b629d74a405513ed7a4eb335fee2e91b697552957dc44e60"
+    },
+    {
+      "path": "scripts/publish.sh",
+      "sha256": "b3b7d5d9c6c748cef62c38fda57ce487fc130cc9b3d60a5a2762f3e660131ffe"
+    },
+    {
+      "path": "scripts/sign.ts",
+      "sha256": "9b3b7089015308af5f8aa638381b645f13127c6b721abcffb6c7f9e0a641956b"
+    },
+    {
+      "path": "snippets.json",
+      "sha256": "3d3df9b990399fa7c9e18dab7e6d18de4ae0607cd0ef6114443397b1e8176e7c"
+    }
+  ],
+  "signature": "eayLN7VG/fxBCpIY1tqlZvQb2hkKnTOT1+vj2qQheREPPALtSbxxFmIWQCBYsrzwcla0tEqD42jyVI7ksj9ZBw=="
+}
