@@ -10,23 +10,27 @@
     },
     {
       "path": "fail.js",
-      "sha256": "e8e950a5c46e6ffa8c7ad363a359b9fa2d8f27537f473ae58ed2b2c369373bb6"
+      "sha256": "023c351da3f5a64c7f3baba9fd962c6d96d96a53b3b726cf8bd35aca8930fbde"
+    },
+    {
+      "path": "jsconfig.json",
+      "sha256": "a658fcc32d0a509545f43496af9d6fec3f8aeb07467d85b1a8ad7c9460e8e8fe"
     },
     {
       "path": "package.json",
-      "sha256": "9ea8bfd21e4c5bf79abd1796f5a1dc9b6c7c060648a6597bca1f806c4f6b5ef4"
+      "sha256": "1f78b84733af30111d4fd782744277fe7d69f136e099cc3141b535f4cb4e73c8"
     },
     {
       "path": "pass.js",
-      "sha256": "3bfda2c7a6dd6aed1e252859669353c62665a7c48ae58cbdce23f0f09ce33196"
+      "sha256": "422bbf30ff4efe9058307f01122025e940107ee206f6742718a0616a6a832b33"
     },
     {
       "path": "pnpm-lock.yaml",
-      "sha256": "74550e0b855cf511b9e9354773cee903d410b091c6c38f3690161ec6de161276"
+      "sha256": "dc98940cbfc267b19c9f764ec2ade46c80cad3a407f5bf6ff2ed785a359cbea2"
     },
     {
       "path": "README.md",
-      "sha256": "73ab104669cef22198198ff61dcd011850781ff55d492cce60fa6174adb7170f"
+      "sha256": "69eea1d716f9056471cef7f573926d24c37399e02ddcb8ad0fb88bf275752656"
     },
     {
       "path": "screenshot.png",
@@ -45,5 +49,5 @@
       "sha256": "3d3df9b990399fa7c9e18dab7e6d18de4ae0607cd0ef6114443397b1e8176e7c"
     }
   ],
-  "signature": "igelNfxQ1fpSvrE/d4Wlol8TKxLoIgJcUG6ysWAxvYaXg4Riu/LHEAx773+vGxuig4ElyI3iKOCMbQkcQBaxDw=="
+  "signature": "6zVr60Z1FU2EUp7s2Hju4wGfm9cbmQRKW52/A4yxM8ED6LCPyVJuhIntavzR0QLZuaJZvUbHsi/V7L9Fl+LDBQ=="
 }

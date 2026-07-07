@@ -1,6 +1,6 @@
 # Testing Snippets
 
-HarborClient snippet bundle with pass and fail post-request test examples. Use them to learn how `hc.test` and `hc.expect` work, or as starting points for your own response checks.
+HarborClient snippet bundle with pass and fail post-request tests.
 
 ![Screenshot](screenshot.png)
 
@@ -8,28 +8,10 @@ HarborClient snippet bundle with pass and fail post-request test examples. Use t
 
 Both snippets run in **post-request** script lists (collection or request **PostRequest** tab).
 
-| Snippet | Purpose |
-| ------- | ------- |
-| **Pass** | Asserts the response status code is `200`. Use against endpoints that return success. |
-| **Fail** | Asserts the response status code is `400`. Use to verify failing tests appear in the **Tests** tab. |
-
-### Pass
-
-```javascript
-hc.test("Status code is 200", function() {
-  hc.expect(hc.response.code).to.equal(200);
-});
-```
-
-### Fail
-
-```javascript
-hc.test("Status code is 400", function() {
-  hc.expect(hc.response.code).to.equal(400);
-});
-```
-
-After you send a request, open the response viewer **Tests** tab to see green (pass) or red (fail) results for each registered test.
+| Snippet  | Purpose                                                                         |
+| -------- | ------------------------------------------------------------------------------- |
+| **Pass** | Asserts a successful response. Use against endpoints that are meant to succeed. |
+| **Fail** | Asserts a error response (expects `400`). Use against endpoints meant to fail.  |
 
 ## Install
 
@@ -52,7 +34,7 @@ Sign the bundle directory with an Ed25519 key:
 
 ```bash
 export HARBORCLIENT_PLUGIN_SIGNING_KEY=/path/to/signing.pem
-pnpm sign -- --dir . --private-key "$HARBORCLIENT_PLUGIN_SIGNING_KEY" --key-id com.harborclient.snippets.testing
+pnpm sign
 ```
 
 Publish a new version (bumps `snippets.json`, signs, commits, tags, and pushes):
