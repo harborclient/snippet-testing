@@ -11,6 +11,6 @@
   "license": "ISC",
   "packageManager": "pnpm@10.17.1",
   "dependencies": {
-    "@harborclient/sdk": "link:../../sdk"
+    "@harborclient/sdk": "^1.0.37"
   }
 }

@@ -14,7 +14,7 @@
     },
     {
       "path": "package.json",
-      "sha256": "671051b4d05b619bf9231fccccb46485e58156ce24441e5286b0979cfde93258"
+      "sha256": "9ea8bfd21e4c5bf79abd1796f5a1dc9b6c7c060648a6597bca1f806c4f6b5ef4"
     },
     {
       "path": "pass.js",
@@ -22,7 +22,7 @@
     },
     {
       "path": "pnpm-lock.yaml",
-      "sha256": "96744220b552b1b6a9bb034b391a6871f52c91f15864bbb0a2060cf88ec7bf44"
+      "sha256": "74550e0b855cf511b9e9354773cee903d410b091c6c38f3690161ec6de161276"
     },
     {
       "path": "README.md",
@@ -45,5 +45,5 @@
       "sha256": "3d3df9b990399fa7c9e18dab7e6d18de4ae0607cd0ef6114443397b1e8176e7c"
     }
   ],
-  "signature": "eayLN7VG/fxBCpIY1tqlZvQb2hkKnTOT1+vj2qQheREPPALtSbxxFmIWQCBYsrzwcla0tEqD42jyVI7ksj9ZBw=="
+  "signature": "igelNfxQ1fpSvrE/d4Wlol8TKxLoIgJcUG6ysWAxvYaXg4Riu/LHEAx773+vGxuig4ElyI3iKOCMbQkcQBaxDw=="
 }
