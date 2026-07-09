@@ -2,7 +2,7 @@
   "id": "com.harborclient.snippets.testing",
   "name": "Testing",
   "author": "HarborClient",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "A complete set of pass and fail testing snippets.",
   "description": "README.md",
   "categories": [
@@ -15,7 +15,7 @@
     "harborclient": ">=2.0.0"
   },
   "snippets": [
-  	{ "name": "Pass", "phase": "run", "stage": "post-request", "file": "pass.js" },
-    { "name": "Fail", "phase": "run", "stage": "post-request", "file": "fail.js" }
+  	{ "name": "Pass", "phase": "main", "stage": "post-request", "file": "pass.js" },
+    { "name": "Fail", "phase": "main", "stage": "post-request", "file": "fail.js" }
   ]
 }

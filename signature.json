@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "pluginId": "com.harborclient.snippets.testing",
-  "pluginVersion": "1.0.4",
+  "pluginVersion": "1.0.5",
   "algorithm": "Ed25519",
   "files": [
     {
@@ -46,8 +46,8 @@
     },
     {
       "path": "snippets.json",
-      "sha256": "6bb135e64ab4479a363bc13a9351499f6685e12e6e8c53be2a36d0643bf2e542"
+      "sha256": "e7f6532c3b9e5443d18da60940f84c76ad6adb97f184000439480cf29c220f31"
     }
   ],
-  "signature": "RhRnQMXLqsoZOI/vup4jRbcFy5iyAeUcfakpMnRxP1PSFLjfPPe71Srsjk72664R3Eymh6RVIm7nL793uIiYDQ=="
+  "signature": "cDUBOkK8B2vd4K00dCEd8Se3sCoVOgw6KUFYz6+ft1COXWB8avbCAZvk7FB9DCSo4nrEwp63K1OFaUMt9BZSBA=="
 }
